@@ -45,8 +45,7 @@
 Установили Arduino Studio и дополнительные компоненты (TB6612; AsyncTCP-master.zip; ESPAsyncWebServer-master.zip; ESP32Servo; Adafruit_NeoPixel - библиотеки, esp32, Arduion_JSON, AnalogWrite - плагины, драйвер USB-UART CP210x_VCP_Windows).  <br />
 Проверили работу программы, теперь управление роботом осуществляется с телефона.  <br />
 3. В SolidWorks смоделировали детали для бота: крепления (для шприца, для оси), основание, детали корпуса, колёса, подшипники.  <br />
-(На скриншоте почти окончательная модель колеса, был изменён только протектор: размещение не параллельное, а поочерёдное))  <br />
-![photo_2025-04-01_02-09-58](https://github.com/user-attachments/assets/8a49438f-abc0-472b-b808-88f0fe4dc554)
+![Снимок экрана (102)](https://github.com/user-attachments/assets/de4a73d0-a95a-4c3b-9eb7-2d9562a52f8a) 
 ![photo_2025-04-01_02-09-35](https://github.com/user-attachments/assets/f379e79f-7ac4-4270-b106-72e9edb12b85)
 
 ## Выполнение задачи - прохождение полосы препятствий: 
