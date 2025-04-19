@@ -39,7 +39,7 @@
 1.	Сборка РСВ-шилда <br />
 Установили клеммники, гнёзда штыревые «мама», вилки штыревые и припаяли с обратной стороны.
 ![Снимок экрана (98)](https://github.com/user-attachments/assets/9db31eed-1aef-48e8-a369-2bb3756483fc) <br />
-Подключили моторы и ходовую часть (7 на схеме).
+Подключили моторы и ходовую часть (7 на схеме).  <br />
 ![Снимок экрана (100)](https://github.com/user-attachments/assets/6829a9d4-811c-4fd2-84ca-6e454387e685) <br />
 2. Программирование управляющей платы <br />
 Установили Arduino Studio и дополнительные компоненты (TB6612; AsyncTCP-master.zip; ESPAsyncWebServer-master.zip; ESP32Servo; Adafruit_NeoPixel - библиотеки, esp32, Arduion_JSON, AnalogWrite - плагины, драйвер USB-UART CP210x_VCP_Windows).  <br />
